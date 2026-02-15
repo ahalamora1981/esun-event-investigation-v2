@@ -1,7 +1,7 @@
 import json
 import requests
 from .auth import get_token
-from ..utils.config import load_config
+from src.utils.config import load_config
 
 
 config = load_config()

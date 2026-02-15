@@ -2,7 +2,7 @@ from loguru import logger
 from agno.agent import Agent
 from agno.models.vllm import VLLM
 from agno.models.dashscope import DashScope
-from ..utils import load_config
+from .config import load_config
 from openai import OpenAI
 
 

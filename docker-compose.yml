@@ -1,0 +1,11 @@
+services:
+  app:
+    build: .
+    container_name: event-investigation-v2
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./src:/app/src
+    restart: unless-stopped
+    environment:
+      - TZ=Asia/Shanghai

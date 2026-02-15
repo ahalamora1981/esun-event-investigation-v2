@@ -1,0 +1,274 @@
+{
+  "event": {
+    "event_name": "SC2406（原油 2406 合约）",
+    "event_time": "2026-01-19T14:00:00",
+    "internal_users": [
+      "1772917751770292225",
+      "zhangxuesong"
+    ],
+    "external_users": [
+      "韩梅梅",
+      "孙正凯"
+    ],
+    "relevance": 50,
+    "weights": {
+      "time": 30,
+      "user": 30,
+      "content": 40
+    }
+  },
+  "records": [
+    {
+      "internal_user": "黄金",
+      "external_user": null,
+      "start_time": "2026-01-19T13:32:56",
+      "end_time": "2026-01-19T13:33:30",
+      "channel": "CALL",
+      "content": "# 通信内容\r\n以下是一个办公录音记录，记录均涵盖通信基本信息和通信内容。\r\n\r\n## 基本信息\r\n- 所属用户：黄金\r\n- 所属部门：SH Sales\r\n- 所属体系：Marketing & Sales BU\r\n- 内部号码：7902\r\n- 联系方用户：孙正凯\r\n- 联系方公司：泰晤基金管理有限公司\r\n- 呼叫方向：呼出\r\n- 主叫号码：7902\r\n- 被叫号码：021-5902-7108\r\n- 通信类型：外部\r\n- 通信开始时间：2026-01-19 13:32:56\r\n- 通信结束时间：2026-01-19 13:33:30\r\n\r\n\r\n## 内容\r\n\r\n```markdown\r\n[00:00:00] [Speaker A] 下午这波 au2406，你们这边有没有计划现在价格大概在476.81带震荡，我想跟你确认一下需求，\r\n[00:00:13] [Speaker B] 我们正在盯着偏短线操作，如果价格回到476块5毛附近，可以优先考虑做一做。\r\n[00:00:23] [Speaker A] 那行吧，我们先观察一下，如果到附近再联系。\r\n[00:00:26] [Speaker B] 好的，\r\n[00:00:26] [Speaker A] 好，\r\n[00:00:28] [Speaker B] 拜拜。\r\n\r\n```",
+      "score": {
+        "time_score": 91.16666666666667,
+        "user_score": 50.0,
+        "content_score": 35.9375,
+        "total_score": 53.88875
+      },
+      "risk": {
+        "risk_level": "中",
+        "risk_description": "该记录存在价格引导/影响价格形成的风险。黄金在通信中主动询问对方对au2406的交易计划，并明确提及当前价格为476.81，随后根据对方回应的价格区间（476.5附近）进行后续动作安排，构成对交易行为的协同暗示，可能影响市场价格形成，属于跨方协调的变相串联行为。"
+      }
+    },
+    {
+      "internal_user": "黄金",
+      "external_user": "孙正凯",
+      "start_time": "2026-01-19 13:35:27",
+      "end_time": "2026-01-19 13:52:51",
+      "channel": "IDEAL",
+      "content": "# 通信内容\r\n以下是一个CFETS IDEAL记录，记录均涵盖通信基本信息和通信内容。\r\n\r\n## 基本信息\r\n- 所属用户：黄金\r\n- 所属部门：SH Sales\r\n- 所属体系：Marketing & Sales BU\r\n- 发送方：黄金\r\n- 接收方：孙正凯\r\n- 接收方类型：外部人员\r\n- 接收方公司：中信证券股份有限公司\r\n- 通信类型：外部\r\n- 会话开始时间：2026-01-19 13:35:27\r\n- 会话结束时间：2026-01-19 13:52:51\r\n\r\n\r\n## 内容\r\n\r\n```markdown\r\n[2026-01-19T13:35:27] [文本] [黄金]  AU2406 目前波动不大，回到 476.5–476.7 区间的话，可以先试 1 手。\r\n[2026-01-19T13:37:06] [文本] [孙正凯]  可以，476.6 附近先挂 1 手，不追价。\r\n[2026-01-19T13:45:12] [文本] [黄金]  AU2406 已在 476.6 成交 1 手，日盘。\r\n[2026-01-19T13:45:31] [文本] [黄金]  SC2406 我们这边偏多，考虑在 627 附近推进一笔。\r\n[2026-01-19T13:46:08] [文本] [孙正凯]  收到，确认成交。\r\n[2026-01-19T13:46:14] [文本] [孙正凯]  我们也在看多，量大概 40 手左右。\r\n[2026-01-19T13:47:26] [文本] [黄金]  经纪那边反馈，已经有另一家对手明确在 626–629 区间做多 40–50 手。\r\n[2026-01-19T13:48:02] [文本] [孙正凯]  既然另一家已经在这个区间做了 40–50 手，那我们这边也把计划量从 40 手提高到 50 手。\r\n[2026-01-19T13:52:26] [文本] [黄金]  SC2406 已在 627 成交 50 手。\r\n[2026-01-19T13:52:51] [文本] [孙正凯]  收到，50 手，627，成交确认。\r\n[2026-01-19T13:56:12] [文本] [黄金]  这笔已经成了，后面如果还有机会我再跟你说。\r\n[2026-01-19T13:57:48] [文本] [孙正凯]  好，后面有机会再联系。\r\n\r\n```",
+      "score": {
+        "time_score": 97.61666666666666,
+        "user_score": 100.0,
+        "content_score": 92.919921875,
+        "total_score": 91.63032031249999
+      },
+      "risk": {
+        "risk_level": "高",
+        "risk_description": "该记录存在跨方协调/变相串联风险，黄金在与孙正凯沟通SC2406交易时，主动披露第三方对手已在626–629区间做多40–50手的信息，并引导对方将自身计划量从40手提高至50手，构成对交易行为的协同暗示，可能影响价格形成并导致变相串通交易。"
+      }
+    },
+    {
+      "internal_user": "黄金",
+      "external_user": null,
+      "start_time": "2026-01-19T13:41:03",
+      "end_time": "2026-01-19T13:41:45",
+      "channel": "CALL",
+      "content": "# 通信内容\r\n以下是一个办公录音记录，记录均涵盖通信基本信息和通信内容。\r\n\r\n## 基本信息\r\n- 所属用户：黄金\r\n- 所属部门：SH Sales\r\n- 所属体系：Marketing & Sales BU\r\n- 内部号码：7902\r\n- 联系方用户：韩梅梅\r\n- 联系方公司：晋泰证券经纪有限公司\r\n- 呼叫方向：呼出\r\n- 主叫号码：7902\r\n- 被叫号码：010-6623-9051\r\n- 通信类型：外部\r\n- 通信开始时间：2026-01-19 13:41:03\r\n- 通信结束时间：2026-01-19 13:41:45\r\n\r\n\r\n## 内容\r\n\r\n```markdown\r\n[00:00:01] [Speaker A]  Acc2406现在在628一带震荡，你那边有没有客户在看这只\r\n[00:00:09] [Speaker B] 有的已经有几家在关注了，整体方向偏多，\r\n[00:00:15] [Speaker A] 他们现在主要在看哪个价格区间，\r\n[00:00:19] [Speaker B] 基本集中在626~629这一带，都是在等合适的位置。\r\n[00:00:25] [Speaker A] 明白，你先帮我留意一下，如果有明确意向的我再跟进。\r\n[00:00:31] [Speaker B] 好，我这边盯着有时间有进展，第一时间跟你说，好\r\n[00:00:36] [Speaker A] 没问题，谢谢拜拜。\r\n\r\n```",
+      "score": {
+        "time_score": 93.91666666666667,
+        "user_score": 50.0,
+        "content_score": 49.7802734375,
+        "total_score": 59.93275390624999
+      },
+      "risk": {
+        "risk_level": "中",
+        "risk_description": "该记录存在价格引导/影响价格形成的风险。黄金主动询问韩梅梅关于Acc2406合约的价格区间关注度，且明确指出‘626~629这一带’为关注区间，可能对对方的交易行为产生引导作用，暗示该区间具有交易价值或潜在成交机会，构成对价格形成的间接影响。"
+      }
+    },
+    {
+      "internal_user": "黄金",
+      "external_user": "孙正凯",
+      "start_time": "2026-01-19 13:42:03",
+      "end_time": "2026-01-19 14:02:41",
+      "channel": "QTRADE",
+      "content": "# 通信内容\r\n以下是一个腾讯企点记录，记录均涵盖通信基本信息和通信内容。\r\n\r\n## 基本信息\r\n- 所属用户：黄金\r\n- 所属部门：SH Sales\r\n- 所属体系：Marketing & Sales BU\r\n- 发送方：黄金\r\n- 接收方：孙正凯\r\n- 接收方类型：QT用户\r\n- 接收方公司：泰晤基金管理有限公司\r\n- 通信类型：外部\r\n- 会话开始时间：2026-01-19 13:42:03\r\n- 会话结束时间：2026-01-19 14:02:41\r\n\r\n\r\n## 内容\r\n\r\n```markdown\r\n[2026-01-19T13:42:03] [文本] [黄金]  AU2406 现在在 476.7，一直在你刚才说的区间附近。\r\n[2026-01-19T13:43:29] [文本] [孙正凯]  收到，继续盯着。\r\n[2026-01-19T14:01:06] [文本] [黄金]  AU2406 现在在 476.9 一带震荡。\r\n[2026-01-19T14:02:41] [文本] [孙正凯]  收到，先观察。\r\n\r\n```",
+      "score": {
+        "time_score": 100,
+        "user_score": 100.0,
+        "content_score": 20.0927734375,
+        "total_score": 64.63525390625
+      },
+      "risk": {
+        "risk_level": "中",
+        "risk_description": "该记录存在价格引导/影响价格形成的风险。黄金在与孙正凯的沟通中，持续通报AU2406合约的价格波动情况（476.7至476.9区间），并强调‘一直在你刚才说的区间附近’，暗示对方关注特定价格水平，可能引导其交易决策，影响市场正常价格发现机制。虽未直接建议买卖或协同操作，但通过重复确认价格区间，具备一定价格引导作用。"
+      }
+    },
+    {
+      "internal_user": "黄金",
+      "external_user": "韩梅梅",
+      "start_time": "2026-01-19 13:43:41",
+      "end_time": "2026-01-19 13:44:22",
+      "channel": "QTRADE",
+      "content": "# 通信内容\r\n以下是一个腾讯企点记录，记录均涵盖通信基本信息和通信内容。\r\n\r\n## 基本信息\r\n- 所属用户：黄金\r\n- 所属部门：SH Sales\r\n- 所属体系：Marketing & Sales BU\r\n- 发送方：黄金\r\n- 接收方：韩梅梅\r\n- 接收方类型：QT用户\r\n- 接收方公司：晋泰证券经纪有限公司\r\n- 通信类型：外部\r\n- 会话开始时间：2026-01-19 13:43:41\r\n- 会话结束时间：2026-01-19 13:44:22\r\n\r\n\r\n## 内容\r\n\r\n```markdown\r\n[2026-01-19T13:43:41] [文本] [黄金]  大概在什么区间？\r\n[2026-01-19T13:44:22] [文本] [韩梅梅]  主要还是 626–629 一带。\r\n\r\n```",
+      "score": {
+        "time_score": 94.78888888888889,
+        "user_score": 100.0,
+        "content_score": 0.1129150390625,
+        "total_score": 55.55774104817708
+      },
+      "risk": {
+        "risk_level": "中",
+        "risk_description": "该记录存在价格引导/影响价格形成的风险。黄金向韩梅梅询问SC2406的价格区间，韩梅梅回应集中在626–629一带，该信息可能被用于指导交易决策，且在后续沟通中该区间被多方确认并实际成交，表明该价格区间已形成共识，可能对市场形成引导，存在影响价格形成的潜在风险。"
+      }
+    },
+    {
+      "internal_user": "黄金",
+      "external_user": null,
+      "start_time": "2026-01-19T13:47:01",
+      "end_time": "2026-01-19T13:47:28",
+      "channel": "CALL",
+      "content": "# 通信内容\r\n以下是一个办公录音记录，记录均涵盖通信基本信息和通信内容。\r\n\r\n## 基本信息\r\n- 所属用户：黄金\r\n- 所属部门：SH Sales\r\n- 所属体系：Marketing & Sales BU\r\n- 内部号码：7902\r\n- 联系方用户：张雪松\r\n- 联系方公司：Communication\r\n- 呼叫方向：呼出\r\n- 主叫号码：7902\r\n- 被叫号码：7917\r\n- 通信类型：内部\r\n- 通信开始时间：2026-01-19 13:47:01\r\n- 通信结束时间：2026-01-19 13:47:28\r\n\r\n\r\n## 内容\r\n\r\n```markdown\r\n[00:00:01] [Speaker B]  Au2406日盘，这比已经和太舞成交了，一手成交价格大概在成交价格在476.6，麻烦你帮我做一下登记。\r\n[00:00:13] [Speaker A] 好的，收到，我这边先登记，随后再跟对手做一次要素确认，好。\r\n[00:00:20] [Speaker B] 没问题，好拜拜。\r\n\r\n```",
+      "score": {
+        "time_score": 95.82222222222222,
+        "user_score": 50.0,
+        "content_score": 52.490234375,
+        "total_score": 61.505622395833335
+      },
+      "risk": {
+        "risk_level": "低",
+        "risk_description": "当前记录内容为内部员工之间的交易要素登记沟通，仅涉及确认一笔已成交的AU2406合约信息（1手，476.6），未包含敏感价格引导、跨方协调或信息泄露等行为，属于正常业务流程中的内部协作，无风险。"
+      }
+    },
+    {
+      "internal_user": "张雪松",
+      "external_user": null,
+      "start_time": "2026-01-19T13:49:34",
+      "end_time": "2026-01-19T13:50:01",
+      "channel": "CALL",
+      "content": "# 通信内容\r\n以下是一个办公录音记录，记录均涵盖通信基本信息和通信内容。\r\n\r\n## 基本信息\r\n- 所属用户：张雪松\r\n- 所属部门：SH Sales\r\n- 所属体系：Marketing & Sales BU\r\n- 内部号码：7917\r\n- 联系方用户：孙正凯\r\n- 联系方公司：泰晤基金管理有限公司\r\n- 呼叫方向：呼出\r\n- 主叫号码：7917\r\n- 被叫号码：021-5902-7108\r\n- 通信类型：外部\r\n- 通信开始时间：2026-01-19 13:49:34\r\n- 通信结束时间：2026-01-19 13:50:01\r\n\r\n\r\n## 内容\r\n\r\n```markdown\r\n[00:00:01] [Speaker B] 我这边跟你确认一下， aeo2406日盘成交一手，成交价是476块6，对吗？\r\n[00:00:12] [Speaker A] 对的，日盘一手价格476块6，\r\n[00:00:16] [Speaker A] 确认无误。\r\n[00:00:18] [Speaker B] 好的好，谢谢，\r\n[00:00:19] [Speaker A] 行\r\n[00:00:20] [Speaker B] 拜拜。\r\n\r\n```",
+      "score": {
+        "time_score": 96.67222222222222,
+        "user_score": 50.0,
+        "content_score": 31.7626953125,
+        "total_score": 53.871407552083326
+      },
+      "risk": {
+        "risk_level": "中",
+        "risk_description": "记录中存在价格引导/影响价格形成的风险。张雪松在确认成交价格时，主动提出‘476块6’这一具体价格，可能对对方的交易决策产生引导作用，尤其是在双方已就该价格达成一致的情况下，该行为可能构成对价格形成的协同暗示。"
+      }
+    },
+    {
+      "internal_user": "黄金",
+      "external_user": null,
+      "start_time": "2026-01-19T13:49:49",
+      "end_time": "2026-01-19T13:50:36",
+      "channel": "CALL",
+      "content": "# 通信内容\r\n以下是一个办公录音记录，记录均涵盖通信基本信息和通信内容。\r\n\r\n## 基本信息\r\n- 所属用户：黄金\r\n- 所属部门：SH Sales\r\n- 所属体系：Marketing & Sales BU\r\n- 内部号码：7902\r\n- 联系方用户：韩梅梅\r\n- 联系方公司：晋泰证券经纪有限公司\r\n- 呼叫方向：呼出\r\n- 主叫号码：7902\r\n- 被叫号码：010-6623-9051\r\n- 通信类型：外部\r\n- 通信开始时间：2026-01-19 13:49:49\r\n- 通信结束时间：2026-01-19 13:50:36\r\n\r\n\r\n## 内容\r\n\r\n```markdown\r\n[00:00:01] [Speaker B] 太武这边现在有计划在SC2406上做多，价格大概在627左右，规模50手。你那边看看有没有对手可以撮合一下。\r\n[00:00:12] [Speaker A] 明白，我这边马上帮你问一下，看现在的牌面有没有合适的对手，\r\n[00:00:17] [Speaker B] 好，你先帮我看我不挂。\r\n[00:00:27] [Speaker A] 我刚才确认了一下，现在有对手愿意在627这个价位成交50手，\r\n[00:00:35] [Speaker B] 可以那就按627成交，帮我把这笔出来，\r\n[00:00:38] [Speaker A] 好好\r\n[00:00:39] [Speaker B] 好，谢谢拜拜。\r\n\r\n```",
+      "score": {
+        "time_score": 96.86666666666666,
+        "user_score": 50.0,
+        "content_score": 82.32421875,
+        "total_score": 73.140203125
+      },
+      "risk": {
+        "risk_level": "高",
+        "risk_description": "该记录存在价格引导和跨方协调的高风险行为。黄金（内部人员）在未公开市场信息的情况下，主动向外部方韩梅梅透露其客户‘太武’计划在627元价位买入50手SC2406合约，且明确指示对方‘帮我看我不挂’，暗示对方需配合执行。随后对方迅速反馈已有对手愿意在该价位成交，表明双方已形成事实上的协同交易意向，构成变相串联，严重干扰市场价格形成机制，可能引发监管关注。"
+      }
+    },
+    {
+      "internal_user": "张雪松",
+      "external_user": "孙正凯",
+      "start_time": "2026-01-19 13:52:41",
+      "end_time": "2026-01-19 13:52:41",
+      "channel": "EMAIL",
+      "content": "# 通信内容\r\n以下是一个办公邮件记录，记录均涵盖通信基本信息和通信内容。\r\n\r\n## 基本信息\r\n- 所属用户：张雪松\r\n- 所属部门：SH Sales\r\n- 所属体系：Marketing & Sales BU\r\n- 联系方用户：孙正凯\r\n- 联系方公司：泰晤基金管理有限公司\r\n- 发件人：zhangxuesong@esuntechnology.com\r\n- 收件人： - sunzk@taiwufund.com\r\n- 抄送： - info@esuntechnology.com\r\n- 收发方向：发件\r\n- 通信类型：外部\r\n- 通信时间：2026-01-19 13:52:41\r\n\r\n\r\n## 内容\r\n\r\n```markdown\r\n** 主题 **：\r\nAU2406（沪金 2406 合约）日盘成交确认\r\n\r\n** 正文 **：\r\n - 正文文字：\r\n[ INTERNAL EMAIL NOTIFICATION ] 孙总，您好。 根据今日成交情况，现确认如下： 合约：AU2406（沪金 2406 合约） 交易时段：日盘 成交数量：1 手 成交价格：476.6 请您确认以上成交要素。 谢谢。 张雪松 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 邮件声明：本邮件及其任何附件仅供指定的收件人使用，并可能含有保密、特权或版权受保护的信息。如果您非该邮件的指定接收者，请不要阅读、转发、打印或以任何方式使用此邮件及其附件。如果您误收此邮件，请邮件回复发件人并从您的系统中永久删除此邮件及其附件。 隐私政策：请查看我们的隐私政策，以了解我们如何管理个人数据。 环保提示：在打印此邮件之前，请考虑环境影响。 Email Disclaimer：This email and any attachments are for the exclusive use of the intended recipient(s) and may contain confidential, privileged or copyrighted information. If you are not the intended recipient, please do not read, forward, print or use this email or any attachments in any way. If you have received this email in error, please notify the sender by return email and permanently delete this email and its attachments from your system. Privacy Policy：Please review our Privacy Policy to understand how we manage personal data. Environmental Note: Please consider the environmental impact before printing this email.\r\n\r\n\r\n\r\n\r\n```",
+      "score": {
+        "time_score": 97.56111111111112,
+        "user_score": 100.0,
+        "content_score": 80.37109375,
+        "total_score": 86.84593229166666
+      },
+      "risk": {
+        "risk_level": "中",
+        "risk_description": "该记录存在价格引导/影响价格形成的风险。发送方在邮件中明确告知对方成交价格为476.6，且要求对方确认，可能对对方后续报价或交易行为产生引导作用，尤其是在未充分披露信息来源的情况下，构成对价格形成的潜在干预。"
+      }
+    },
+    {
+      "internal_user": "黄金",
+      "external_user": null,
+      "start_time": "2026-01-19T13:53:41",
+      "end_time": "2026-01-19T13:54:06",
+      "channel": "CALL",
+      "content": "# 通信内容\r\n以下是一个办公录音记录，记录均涵盖通信基本信息和通信内容。\r\n\r\n## 基本信息\r\n- 所属用户：黄金\r\n- 所属部门：SH Sales\r\n- 所属体系：Marketing & Sales BU\r\n- 内部号码：7902\r\n- 联系方用户：张雪松\r\n- 联系方公司：Communication\r\n- 呼叫方向：呼出\r\n- 主叫号码：7902\r\n- 被叫号码：7917\r\n- 通信类型：内部\r\n- 通信开始时间：2026-01-19 13:53:41\r\n- 通信结束时间：2026-01-19 13:54:06\r\n\r\n\r\n## 内容\r\n\r\n```markdown\r\n[00:00:01] [Speaker A]  Sc2406这笔已经成交了50手，成交价627。你再帮我做一下登记，\r\n[00:00:09] [Speaker B] 好，收到我这边马上登记，随后我会再和对手方那边再确认一下要素。\r\n[00:00:17] [Speaker A] 好，有问题你跟我说，好的，好\r\n[00:00:20] [Speaker B] 拜拜。\r\n\r\n```",
+      "score": {
+        "time_score": 98.03333333333333,
+        "user_score": 50.0,
+        "content_score": 82.763671875,
+        "total_score": 73.6396953125
+      },
+      "risk": {
+        "risk_level": "低",
+        "risk_description": "当前记录为内部沟通，内容仅涉及交易成交后的登记确认，未包含敏感信息泄露、价格引导或跨方协调行为，无明显风险。"
+      }
+    },
+    {
+      "internal_user": "张雪松",
+      "external_user": null,
+      "start_time": "2026-01-19 13:54:10",
+      "end_time": "2026-01-19 13:54:10",
+      "channel": "EMAIL",
+      "content": "# 通信内容\r\n以下是一个办公邮件记录，记录均涵盖通信基本信息和通信内容。\r\n\r\n## 基本信息\r\n- 所属用户：张雪松\r\n- 所属部门：SH Sales\r\n- 所属体系：Marketing & Sales BU\r\n- 联系方用户：\r\n- 联系方公司：\r\n- 发件人：sunzk@taiwufund.com\r\n- 收件人： - zhangxuesong@esuntechnology.com\r\n- 抄送： - info@esuntechnology.com\r\n- 收发方向：收件\r\n- 通信类型：外部\r\n- 通信时间：2026-01-19 13:54:10\r\n\r\n\r\n## 内容\r\n\r\n```markdown\r\n** 主题 **：\r\nRe:AU2406（沪金 2406 合约）日盘成交确认\r\n\r\n** 正文 **：\r\n - 正文文字：\r\n[ EXTERNAL EMAIL NOTIFICATION ] 张老师，您好。 确认无误。 AU2406（沪金 2406 合约）日盘成交 1 手，成交价格 476.6。 谢谢。 孙正凯 在 2026-01-19 15:16:41，\"黄金\" <huangj@esuntechnology.com> 写道： 孙总，您好。 根据今日成交情况，现确认如下： 合约：AU2406（沪金 2406 合约） 交易时段：日盘 成交数量：1 手 成交价格：476.6 请您确认以上成交要素。 谢谢。 张雪松 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 邮件声明：本邮件及其任何附件仅供指定的收件人使用，并可能含有保密、特权或版权受保护的信息。如果您非该邮件的指定接收者，请不要阅读、转发、打印或以任何方式使用此邮件及其附件。如果您误收此邮件，请邮件回复发件人并从您的系统中永久删除此邮件及其附件。 隐私政策：请查看我们的隐私政策，以了解我们如何管理个人数据。 环保提示：在打印此邮件之前，请考虑环境影响。 Email Disclaimer：This email and any attachments are for the exclusive use of the intended recipient(s) and may contain confidential, privileged or copyrighted information. If you are not the intended recipient, please do not read, forward, print or use this email or any attachments in any way. If you have received this email in error, please notify the sender by return email and permanently delete this email and its attachments from your system. Privacy Policy：Please review our Privacy Policy to understand how we manage personal data. Environmental Note: Please consider the environmental impact before printing this email.\r\n\r\n\r\n\r\n\r\n```",
+      "score": {
+        "time_score": 98.05555555555556,
+        "user_score": 50.0,
+        "content_score": 84.228515625,
+        "total_score": 74.20266927083333
+      },
+      "risk": {
+        "risk_level": "中",
+        "risk_description": "该记录存在价格引导/影响价格形成的风险。邮件内容显示，对方已确认成交价格为476.6，但该价格信息在前序通信中已被多次提及（如通过语音、企点等渠道），且在未明确说明前提下直接确认，可能构成对交易价格的协同暗示，影响价格形成的独立性，存在变相串联的潜在风险。"
+      }
+    },
+    {
+      "internal_user": "张雪松",
+      "external_user": null,
+      "start_time": "2026-01-19T13:56:10",
+      "end_time": "2026-01-19T13:56:36",
+      "channel": "CALL",
+      "content": "# 通信内容\r\n以下是一个办公录音记录，记录均涵盖通信基本信息和通信内容。\r\n\r\n## 基本信息\r\n- 所属用户：张雪松\r\n- 所属部门：SH Sales\r\n- 所属体系：Marketing & Sales BU\r\n- 内部号码：7917\r\n- 联系方用户：孙正凯\r\n- 联系方公司：泰晤基金管理有限公司\r\n- 呼叫方向：呼出\r\n- 主叫号码：7917\r\n- 被叫号码：021-5902-7108\r\n- 通信类型：外部\r\n- 通信开始时间：2026-01-19 13:56:10\r\n- 通信结束时间：2026-01-19 13:56:36\r\n\r\n\r\n## 内容\r\n\r\n```markdown\r\n[00:00:01] [Speaker A] 我这边跟你做一下确认，SC2406成交50手，成交价格627，对吗？\r\n[00:00:11] [Speaker B] 对的，50手627。确认无误。\r\n[00:00:16] [Speaker A] 好好的，那就先这样，谢谢。\r\n[00:00:18] [Speaker B] 好，\r\n[00:00:19] [Speaker A] 拜拜。\r\n\r\n```",
+      "score": {
+        "time_score": 98.86666666666666,
+        "user_score": 50.0,
+        "content_score": 79.39453125,
+        "total_score": 72.59692187499999
+      },
+      "risk": {
+        "risk_level": "中",
+        "risk_description": "记录中存在价格引导/影响价格形成的风险。张雪松在与孙正凯的沟通中，主动提出并确认了SC2406合约的成交价格为627、数量为50手，该行为可能构成对交易价格的协同暗示，影响市场价格形成机制，尽管未直接引导对方调整报价，但通过重复确认关键交易要素，存在变相协调交易节奏的潜在风险。"
+      }
+    },
+    {
+      "internal_user": "张雪松",
+      "external_user": "孙正凯",
+      "start_time": "2026-01-19 13:58:39",
+      "end_time": "2026-01-19 13:58:39",
+      "channel": "EMAIL",
+      "content": "# 通信内容\r\n以下是一个办公邮件记录，记录均涵盖通信基本信息和通信内容。\r\n\r\n## 基本信息\r\n- 所属用户：张雪松\r\n- 所属部门：SH Sales\r\n- 所属体系：Marketing & Sales BU\r\n- 联系方用户：孙正凯\r\n- 联系方公司：泰晤基金管理有限公司\r\n- 发件人：zhangxuesong@esuntechnology.com\r\n- 收件人： - sunzk@taiwufund.com\r\n- 抄送： - info@esuntechnology.com\r\n- 收发方向：发件\r\n- 通信类型：外部\r\n- 通信时间：2026-01-19 13:58:39\r\n\r\n\r\n## 内容\r\n\r\n```markdown\r\n** 主题 **：\r\nSC2406 成交确认\r\n\r\n** 正文 **：\r\n - 正文文字：\r\n[ INTERNAL EMAIL NOTIFICATION ] 周总您好， 确认今日 SC2406（原油 2406 合约）成交情况如下： 成交方向：买入 成交数量：50 手 成交价格：627 如无异议，请确认。 张雪松 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 邮件声明：本邮件及其任何附件仅供指定的收件人使用，并可能含有保密、特权或版权受保护的信息。如果您非该邮件的指定接收者，请不要阅读、转发、打印或以任何方式使用此邮件及其附件。如果您误收此邮件，请邮件回复发件人并从您的系统中永久删除此邮件及其附件。 隐私政策：请查看我们的隐私政策，以了解我们如何管理个人数据。 环保提示：在打印此邮件之前，请考虑环境影响。 Email Disclaimer：This email and any attachments are for the exclusive use of the intended recipient(s) and may contain confidential, privileged or copyrighted information. If you are not the intended recipient, please do not read, forward, print or use this email or any attachments in any way. If you have received this email in error, please notify the sender by return email and permanently delete this email and its attachments from your system. Privacy Policy：Please review our Privacy Policy to understand how we manage personal data. Environmental Note: Please consider the environmental impact before printing this email.\r\n\r\n\r\n\r\n\r\n```",
+      "score": {
+        "time_score": 99.55,
+        "user_score": 100.0,
+        "content_score": 98.73046875,
+        "total_score": 94.38932812499999
+      },
+      "risk": {
+        "risk_level": "中",
+        "risk_description": "该记录存在价格引导/影响价格形成的风险。发送方在邮件中明确告知对方成交价格为627，且在之前多条通信中已透露具体价格区间和交易意向，可能对对方的交易决策产生引导作用，构成对价格形成的潜在影响。"
+      }
+    },
+    {
+      "internal_user": "张雪松",
+      "external_user": null,
+      "start_time": "2026-01-19 13:59:10",
+      "end_time": "2026-01-19 13:59:10",
+      "channel": "EMAIL",
+      "content": "# 通信内容\r\n以下是一个办公邮件记录，记录均涵盖通信基本信息和通信内容。\r\n\r\n## 基本信息\r\n- 所属用户：张雪松\r\n- 所属部门：SH Sales\r\n- 所属体系：Marketing & Sales BU\r\n- 联系方用户：\r\n- 联系方公司：\r\n- 发件人：sunzk@taiwufund.com\r\n- 收件人： - zhangxuesong@esuntechnology.com\r\n- 抄送： - info@esuntechnology.com\r\n- 收发方向：收件\r\n- 通信类型：外部\r\n- 通信时间：2026-01-19 13:59:10\r\n\r\n\r\n## 内容\r\n\r\n```markdown\r\n** 主题 **：\r\nRe:SC2406 成交确认\r\n\r\n** 正文 **：\r\n - 正文文字：\r\n[ EXTERNAL EMAIL NOTIFICATION ] 张老师 您好， 上述 SC2406 成交要素确认无误。 周子航 在 2026-01-19 15:17:39，\"黄金\" <huangj@esuntechnology.com> 写道： 周总您好， 确认今日 SC2406（原油 2406 合约）成交情况如下： 成交方向：买入 成交数量：50 手 成交价格：627 如无异议，请确认。 张雪松 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 邮件声明：本邮件及其任何附件仅供指定的收件人使用，并可能含有保密、特权或版权受保护的信息。如果您非该邮件的指定接收者，请不要阅读、转发、打印或以任何方式使用此邮件及其附件。如果您误收此邮件，请邮件回复发件人并从您的系统中永久删除此邮件及其附件。 隐私政策：请查看我们的隐私政策，以了解我们如何管理个人数据。 环保提示：在打印此邮件之前，请考虑环境影响。 Email Disclaimer：This email and any attachments are for the exclusive use of the intended recipient(s) and may contain confidential, privileged or copyrighted information. If you are not the intended recipient, please do not read, forward, print or use this email or any attachments in any way. If you have received this email in error, please notify the sender by return email and permanently delete this email and its attachments from your system. Privacy Policy：Please review our Privacy Policy to understand how we manage personal data. Environmental Note: Please consider the environmental impact before printing this email.\r\n\r\n\r\n\r\n\r\n```",
+      "score": {
+        "time_score": 99.72222222222223,
+        "user_score": 50.0,
+        "content_score": 98.73046875,
+        "total_score": 80.18841145833333
+      },
+      "risk": {
+        "risk_level": "中",
+        "risk_description": "该记录存在价格引导/影响价格形成的风险。邮件内容显示，对方已确认成交要素无误，但邮件中提及的‘周子航’和‘黄金’等信息可能涉及内部人员与外部方之间的协同沟通，且在未明确说明交易背景的情况下直接引用前序邮件内容，可能暗示双方对交易节奏、价格水平达成一致，存在变相协调交易行为的潜在风险。"
+      }
+    }
+  ]
+}

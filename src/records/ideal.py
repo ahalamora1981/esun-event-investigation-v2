@@ -4,7 +4,7 @@ import requests
 import asyncio
 # from loguru import logger
 from .auth import get_token
-from ..utils import load_config
+from src.utils import load_config
 from .content import get_content
 
 

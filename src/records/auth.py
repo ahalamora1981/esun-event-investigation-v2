@@ -1,6 +1,6 @@
 import requests
 from cachetools import cached, TTLCache
-from ..utils import load_config
+from src.utils.config import load_config
 
 
 # Cache the token for 1 hour
